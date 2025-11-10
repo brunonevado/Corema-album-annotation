@@ -1,10 +1,4 @@
 # Corema-album-annotation
----
-title: "Annotation of *Corema album genome*"
-output:
-  html_document: default
-  pdf_document: default
----
 
 ## Bruno Nevado, 2025
 
