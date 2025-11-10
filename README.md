@@ -6,10 +6,6 @@ output:
   pdf_document: default
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Bruno Nevado, 2025
 
 
@@ -76,7 +72,7 @@ TEsorter coremaV1-families.fa -p 48 -db rexdb-plant
 - Repeat annotation results excluding unclassified repeats.  
 ![Repeat content per class, excluding unknown elements](./annotationResults/repearContentPerClass.2.png){#id .class width=60% height=60%}
 
-</Detail>
+</Details>
 
 ## Evidence-based annotation with RNAseq data
 
